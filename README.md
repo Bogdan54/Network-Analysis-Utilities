@@ -1,7 +1,7 @@
 # Network Analysis Utilities
 
 ## Overview
-This repository contains tools for IP address analysis and testing proxy servers. The structure is organized as follows:
+This repository contains tools for some network analysis. The structure is organized as follows:
 
 - **ip-analysis:** Tools for analyzing a list of IP addresses.
   - `ip-analysis_gui.py`: Python script with a graphical user interface for IP address analysis.
