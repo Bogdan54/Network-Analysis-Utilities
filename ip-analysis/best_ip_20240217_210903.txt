@@ -1,0 +1,3 @@
+Best IP Address: 107.173.166.10
+Best Average Round-Trip Time: 123.036 ms
+Best TTL: 49
